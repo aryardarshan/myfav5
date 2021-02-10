@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(violet,green,yellow)
+}
+#img1{
+    border-radius: 100px;
+}
+#img2{
+    border-radius: 100px;
+}
+#img11{
+    border-radius: 100px;
+}
+#img12{
+    border-radius: 100px;
+}
